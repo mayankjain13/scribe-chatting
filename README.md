@@ -5,4 +5,4 @@ A social networking app built with Angular and AngularFire using Firebase as bac
 ## Live server
 
 Live server hosted on Firebase-
-  https://scribe-angular.firebaseapp.com/
+  https://scribe-efe48.firebaseapp.com/login
